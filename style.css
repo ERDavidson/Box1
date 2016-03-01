@@ -1,9 +1,18 @@
+*{
+	position: relative;
+	top: -9px;
+}
 #black_box{
+	padding: 5px;
 	background-color: black;
 	color: white;
 	display: block;
-	width: 620px;
+	width: 612px;
+	height: 622px;
 }
 #black_box img{
+	padding:1px;
+	border:1px solid gray;
+	background-color: rgb(200,200,200);
 	display: inline-block;
 }
