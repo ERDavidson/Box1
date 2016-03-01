@@ -1,4 +1,11 @@
 *{
-	background-color: black
+	background-color: black;
 	color: white;
+}
+#black_box{
+	display: block;
+	width: 420px;
+}
+#black_box img{
+	display: inline-block;
 }
